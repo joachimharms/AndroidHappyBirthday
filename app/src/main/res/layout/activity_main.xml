@@ -14,7 +14,7 @@ tools:context=".MainActivity"
 <TextView
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:text="Happy Birthday Lolita!"
+    android:text="Happy Birthday Lia"
     android:id="@+id/text_view_happy_birthday"
     android:textSize="36sp"
     android:textColor="#000000"
